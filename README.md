@@ -49,19 +49,22 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
+      <a href="#releases">Releases</a>
+    </li>
+    <li>
       <a href="#building">Building</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#releases">Releases</a>
-    </li>
+    </li>    
   </ol>
 </details>
 
+<!-- RELEASES -->
+## Releases
 
+Tải về các bản apk release mới nhất [ở đây](https://github.com/hotcat190/HKI2425_MobDev7_Nhom01/tags).
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -75,6 +78,8 @@
 ### Prerequisites
 
 **Cookbook** sử dụng hệ thống build Gradle và có thể được import trực tiếp vào Android Studio (tải phiên bản mới nhất hiện có [ở đây](https://developer.android.com/studio)). 
+<br><br>
+**LƯU Ý**: Dự án sử dụng Firebase service để thực hiện gửi và nhận thông báo trong app. Do đó cần đặt file `google-service.json` ở `HKI2425_MobDev7_Nhom01/AndroidCookbook/app/` để có thể compile thành công. Tìm hiểu cách tải file `google-service.json` tại [đây](https://firebase.google.com/docs/android/setup)
 
 ### Installing the Android App
 
@@ -136,11 +141,6 @@
    
 6. Nếu server chạy thành công, trên console sẽ phản hồi `Application is running on: http://<ip_address>:<port>`
 
-
-<!-- RELEASES -->
-## Releases
-
-Tải về các bản apk release mới nhất [ở đây](https://github.com/hotcat190/HKI2425_MobDev7_Nhom01/tags).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

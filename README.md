@@ -61,16 +61,16 @@
   </ol>
 </details>
 
-<!-- RELEASES -->
-## Releases
-
-Tải về các bản apk release mới nhất [ở đây](https://github.com/hotcat190/HKI2425_MobDev7_Nhom01/tags).
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <p><b>Cookbook</b> là ứng dụng di động dành cho những người yêu thích nấu ăn và muốn tìm hiểu về những công thức mới hoặc chia sẻ những công thức mà họ đã biết.</p>
 <p>Ứng dụng còn tích hợp AI, cho phép người dùng tìm kiếm những món ăn có thể được chế biến từ những nguyên liệu mà họ có sẵn.</p>
+
+<!-- RELEASES -->
+## Releases
+
+Tải về các bản apk release mới nhất [ở đây](https://github.com/hotcat190/HKI2425_MobDev7_Nhom01/tags).
 
 <!-- GETTING STARTED -->
 ## Building
